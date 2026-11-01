@@ -35,4 +35,4 @@ As of the current version, the following soundtracks are supported:
 
 ## DISCLAIMER:
 As of writing this on November 1st, 2026, there are a total of 11,055 music tracks available on Nintendo Music, with 5,230 of them available in the Top Tracks playlists.
-Because of this, it is **NOT** recommended you play this Manual in syncs.
+Because of this, playing this Manual in syncs is **NOT** recommended.
